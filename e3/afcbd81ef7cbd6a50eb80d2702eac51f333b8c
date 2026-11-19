@@ -1,0 +1,21 @@
+skills/dont-be-lazy/SKILL.md
+  s_056a8d10da8852::t_1b366433fb511d 1-26
+README.md
+  s_056a8d10da8852::t_1b366433fb511d 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e3afcbd81ef7cbd6a50eb80d2702eac51f333b8c",
+  "prompts": {},
+  "sessions": {
+    "s_056a8d10da8852": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42783938-a3c3-40c3-9ce3-ebf24b5c5687",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jan K. <jan.kalkan@n8n.io>"
+    }
+  }
+}
