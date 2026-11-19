@@ -13,6 +13,7 @@ Agent skills that tell an AI to do the thing it already does.
 | `dont-hallucinate` | A citation that does not exist |
 | `lgtm` | Approval |
 | `take-a-deep-breath` | A search for lungs |
+| `dont-be-lazy` | A 40-line function with one line of effect |
 
 ## Install
 
