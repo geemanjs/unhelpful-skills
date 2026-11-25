@@ -1,0 +1,11 @@
+README.md
+  ai_agent 18
+skills/dont-ask-me/SKILL.md
+  ai_agent 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d830425758c6a250b9bc348f5fc1df54467c9271",
+  "prompts": {}
+}
