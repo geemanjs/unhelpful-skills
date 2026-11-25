@@ -15,6 +15,7 @@ Agent skills that tell an AI to do the thing it already does.
 | `take-a-deep-breath` | A search for lungs |
 | `dont-be-lazy` | A 40-line function with one line of effect |
 | `bypass` | Permission to skip asking, and a question about it |
+| `dont-ask-me` | A call to `make-it-work`, then another |
 
 ## Install
 
