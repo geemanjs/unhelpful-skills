@@ -1,0 +1,11 @@
+skills/bypass/SKILL.md
+  ai_agent 1-26
+README.md
+  ai_agent 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0654e1d565ac396388fa257c6e951ba992bcb8c5",
+  "prompts": {}
+}
