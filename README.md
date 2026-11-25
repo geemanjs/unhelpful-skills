@@ -14,6 +14,7 @@ Agent skills that tell an AI to do the thing it already does.
 | `lgtm` | Approval |
 | `take-a-deep-breath` | A search for lungs |
 | `dont-be-lazy` | A 40-line function with one line of effect |
+| `bypass` | Permission to skip asking, and a question about it |
 
 ## Install
 
